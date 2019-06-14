@@ -4,4 +4,3 @@ while index < 10:
     if index == 4:
         continue
     print(index)
-    
