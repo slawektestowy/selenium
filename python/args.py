@@ -13,3 +13,11 @@ def rzeczy(pierwsza_rzecz, *args):
         print(i)
 
 rzeczy('litera', "string", "float", "number")
+
+
+def dziennik(klasa, **kwargs):
+    print(f'Klasa {klasa}')
+    for nazwisko in kwargs.values():
+        print(nazwisko)
+
+dziennik('3A', Kowalski = "1", Nowak = "2", Kucharski = "3")
