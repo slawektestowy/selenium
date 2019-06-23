@@ -4,4 +4,4 @@ print(lista[2])
 for i in lista:
     print(i)
 
-    
+ss
