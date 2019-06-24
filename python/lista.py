@@ -24,3 +24,8 @@ pierwsza_lista = ["koc", 'kanapa', "aparat"]
 druga_lista = ["auto", "noga", 1, 2, 4]
 print(pierwsza_lista*3)
 print(pierwsza_lista + druga_lista)
+
+print("#"*30, "Sortowanie listy", "#"*30)
+
+pierwsza_lista.sort()
+print(pierwsza_lista)
