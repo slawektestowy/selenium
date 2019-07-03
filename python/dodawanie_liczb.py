@@ -15,7 +15,8 @@ def Niedzielnik():
             a = int(input())
             print("poda druga liczbe: ")
             b = int(input())
-            print (a / b)
+            print(a / b)
+            print("Koniec programu")
             break
         except ZeroDivisionError:
             print("nie mozna dzielic przez ZERO")
