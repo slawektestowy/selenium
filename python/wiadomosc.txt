@@ -1,1 +1,3 @@
 To jest super tajna wiadomosc
+To jest cos z niczego
+Z kolei to jest trzecia linia
