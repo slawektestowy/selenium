@@ -7,3 +7,4 @@ def generuj(min, max):
 
 for i in range(0,6):
     print(generuj(1,49))
+
