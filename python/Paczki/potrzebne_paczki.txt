@@ -1,0 +1,2 @@
+Potrzebna instalacja paczek(pip):
+xlrd
